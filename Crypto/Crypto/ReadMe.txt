@@ -2,10 +2,7 @@
     CONSOLE APPLICATION : Crypto Project Overview
 ========================================================================
 
-AppWizard has created this Crypto application for you.
 
-This file contains a summary of what you will find in each of the files that
-make up your Crypto application.
 
 
 Crypto.vcxproj
@@ -22,7 +19,7 @@ Crypto.vcxproj.filters
     "Source Files" filter).
 
 Crypto.cpp
-    This is the main application source file.
+    This is the main application source file. This file represents the implementation of PLAYFAIR CHYPHER!(not finished)
 
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
