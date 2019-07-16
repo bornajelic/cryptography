@@ -70,7 +70,7 @@ double calculate_Average(std::vector<std::string> &vec) {
 }
 
 
-//KOLIKI JE FINAL KEY, TOLIKO COSETOVA MORAS IMATI I TE COSETOVE KORISTITI.. NEKI VEC ISKORISTI di ces spremiti sve i uzmi one cosetove za koji je kljuc finalni
+
 
 //functon creates a map with keySize as KEY, and average value as VALUE
 std::map<int, double> createTable(size_t &k1, size_t &k2, std::string &text, size_t &key_Size,std::vector<std::string> &vec) {
